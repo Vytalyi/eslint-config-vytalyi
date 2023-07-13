@@ -18,7 +18,6 @@ module.exports = {
       rules: {
         'astro/no-set-html-directive': 'error',
         'astro/no-set-text-directive': 'error',
-        'astro/no-unused-css-selector': 'error',
       },
     },
     {
