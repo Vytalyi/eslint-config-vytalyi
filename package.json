@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-vytalyi",
+  "name": "eslint-config-hardx",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vytalyi/eslint-config-vytalyi.git"
+    "url": "git+https://github.com/hardx-87/eslint-config-hardx.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vytalyi/eslint-config-vytalyi/issues"
+    "url": "https://github.com/hardx-87/eslint-config-hardx/issues"
   },
-  "homepage": "https://github.com/Vytalyi/eslint-config-vytalyi#readme",
+  "homepage": "https://github.com/hardx-87/eslint-config-hardx#readme",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
